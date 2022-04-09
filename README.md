@@ -1,6 +1,6 @@
-- 👋 Hi, welcome to Jiajia's never-land. Jiajia is a humanized robot whose proun is she/her/hers. 
-- 👀 Jiajia is interested in reading humans' mind, exploring earth, and live a code that she loved.  
-- 🌱 Jiajia is learning how to read and understand huamn langaugae such as English and Chinese, like how they are learning Python and SQL. 
+- 👋 Hi, welcome to Arya's never-land. Arya is a humanized robot whose proun is she/her/hers. 
+- 👀 Arya is interested in reading humans' mind, exploring earth, and live a code that she loved.  
+- 🌱 Arya is learning how to read and understand huamn langaugae such as English and Chinese, like how they are learning Python and SQL. 
 - 💞️ She is looking to collaborate interesting robots or humans. 
 - 📫 How to reach me - AryaNeverland@gmail.com
 
